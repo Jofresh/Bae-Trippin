@@ -57,16 +57,9 @@
                 <dict>
                     <key>value</key>
                     <string>0.500000</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Tiling Offset</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>zDepth</key>
-                <string>-98</string>
+                <string>-97</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -120,16 +113,9 @@
                 <dict>
                     <key>value</key>
                     <string>0.000000</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Tiling Offset</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>zDepth</key>
-                <string>-100</string>
+                <string>-99</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -183,16 +169,9 @@
                 <dict>
                     <key>value</key>
                     <string>0.200000</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Tiling Offset</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>zDepth</key>
-                <string>-99</string>
+                <string>-98</string>
             </dict>
         </array>
     </dict>

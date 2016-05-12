@@ -57,6 +57,32 @@
                 <key>fileFormat</key>
                 <string>mp3</string>
             </dict>
+            <dict>
+                <key>id</key>
+                <string>6094</string>
+                <key>className</key>
+                <string>PTModelSound</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>225_app.mp3</string>
+                </dict>
+                <key>fileFormat</key>
+                <string>mp3</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>6119</string>
+                <key>className</key>
+                <string>PTModelSound</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Defense Line.mp3</string>
+                </dict>
+                <key>fileFormat</key>
+                <string>mp3</string>
+            </dict>
         </array>
     </dict>
 </plist>

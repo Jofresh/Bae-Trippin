@@ -1143,7 +1143,7 @@
 					"$(PROJECT_DIR)/libs/ads/**",
 					"$(PROJECT_DIR)/libs/ads/PTAdHeyzap",
 				);
-				OTHER_LDFLAGS = ("-ObjC", "-framework iAd", "-framework HeyzapAds", "-framework AdSupport" );
+				OTHER_LDFLAGS = ("-ObjC", "-framework Chartboost", "-framework iAd", "-framework HeyzapAds", "-framework AdSupport" );
 				PRODUCT_NAME = PZPlayer;
 				PROVISIONING_PROFILE = "";
 				SDKROOT = iphoneos;
@@ -1199,7 +1199,7 @@
 					"$(PROJECT_DIR)/libs/ads/**",
 					"$(PROJECT_DIR)/libs/ads/PTAdHeyzap",
 				);
-				OTHER_LDFLAGS = ("-ObjC", "-framework iAd", "-framework HeyzapAds", "-framework AdSupport" );
+				OTHER_LDFLAGS = ("-ObjC", "-framework Chartboost", "-framework iAd", "-framework HeyzapAds", "-framework AdSupport" );
 				PRODUCT_NAME = PZPlayer;
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";

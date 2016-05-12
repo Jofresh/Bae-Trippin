@@ -123,11 +123,15 @@
                     <string>74</string>
                 </dict>
                 <key>lastIdNumber</key>
-                <string>6092</string>
+                <string>6126</string>
                 <key>platformSpecificValues</key>
                 <dict>
                     <key>Apple iOS App Store</key>
                     <dict>
+                        <key>charboostID</key>
+                        <string>5734ae8404b0165b7a96f4d0</string>
+                        <key>charboostSignature</key>
+                        <string>9d00a2a45996be7f775c3e9bdd7d12133df2bb76</string>
                         <key>bundleID</key>
                         <string>com.thatlevel.baetrippin</string>
                         <key>nameOnDevice</key>
