@@ -19,11 +19,24 @@
                 <dict>
                     <key>value</key>
                     <string>{585.240,381.090}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -41,6 +54,8 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>zDepth</key>
                 <string>501</string>
@@ -59,11 +74,24 @@
                 <dict>
                     <key>value</key>
                     <string>{775.553,886.242}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -81,6 +109,8 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Delete Input Object</key>
                 <dict>
@@ -104,11 +134,24 @@
                 <dict>
                     <key>value</key>
                     <string>{585.240,381.090}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -126,6 +169,8 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>zDepth</key>
                 <string>501</string>
@@ -144,11 +189,24 @@
                 <dict>
                     <key>value</key>
                     <string>{775.553,886.242}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -166,6 +224,8 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Delete Input Object</key>
                 <dict>
@@ -189,11 +249,24 @@
                 <dict>
                     <key>value</key>
                     <string>{585.240,381.090}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -211,6 +284,8 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>zDepth</key>
                 <string>501</string>
@@ -229,11 +304,24 @@
                 <dict>
                     <key>value</key>
                     <string>{775.553,886.242}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -251,6 +339,8 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Delete Input Object</key>
                 <dict>
@@ -274,11 +364,24 @@
                 <dict>
                     <key>value</key>
                     <string>{585.240,381.090}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -296,6 +399,8 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>zDepth</key>
                 <string>501</string>
@@ -314,11 +419,24 @@
                 <dict>
                     <key>value</key>
                     <string>{775.553,886.242}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -336,6 +454,8 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Delete Input Object</key>
                 <dict>
@@ -359,11 +479,24 @@
                 <dict>
                     <key>value</key>
                     <string>{585.240,381.090}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -381,6 +514,8 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>zDepth</key>
                 <string>501</string>
@@ -399,11 +534,24 @@
                 <dict>
                     <key>value</key>
                     <string>{775.553,886.242}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -421,6 +569,8 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Delete Input Object</key>
                 <dict>
@@ -444,11 +594,24 @@
                 <dict>
                     <key>value</key>
                     <string>{585.240,381.090}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -466,6 +629,8 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>zDepth</key>
                 <string>501</string>
@@ -484,11 +649,24 @@
                 <dict>
                     <key>value</key>
                     <string>{775.553,886.242}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -506,6 +684,583 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Delete Input Object</key>
+                <dict>
+                    <key>value</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>502</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>6296</string>
+                <key>className</key>
+                <string>PTModelObjectAssetTeleport</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Portal</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{585.240,381.090}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>zDepth</key>
+                <string>501</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>6298</string>
+                <key>className</key>
+                <string>PTModelObjectAssetTeleport</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Portal 2</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{775.553,886.242}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Delete Input Object</key>
+                <dict>
+                    <key>value</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>502</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>6332</string>
+                <key>className</key>
+                <string>PTModelObjectAssetTeleport</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Portal</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{585.240,381.090}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>zDepth</key>
+                <string>501</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>6334</string>
+                <key>className</key>
+                <string>PTModelObjectAssetTeleport</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Portal 2</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{775.553,886.242}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Delete Input Object</key>
+                <dict>
+                    <key>value</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>502</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>6366</string>
+                <key>className</key>
+                <string>PTModelObjectAssetTeleport</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Portal</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{585.240,381.090}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>zDepth</key>
+                <string>501</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>6368</string>
+                <key>className</key>
+                <string>PTModelObjectAssetTeleport</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Portal 2</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{775.553,886.242}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Delete Input Object</key>
+                <dict>
+                    <key>value</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>502</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>6400</string>
+                <key>className</key>
+                <string>PTModelObjectAssetTeleport</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Portal</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{585.240,381.090}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>zDepth</key>
+                <string>501</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>6402</string>
+                <key>className</key>
+                <string>PTModelObjectAssetTeleport</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Portal 2</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{775.553,886.242}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Delete Input Object</key>
+                <dict>
+                    <key>value</key>
+                    <string>0</string>
+                </dict>
+                <key>zDepth</key>
+                <string>502</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>6434</string>
+                <key>className</key>
+                <string>PTModelObjectAssetTeleport</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Portal</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{585.240,381.090}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>zDepth</key>
+                <string>501</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>6436</string>
+                <key>className</key>
+                <string>PTModelObjectAssetTeleport</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Portal 2</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{775.553,886.242}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Delete Input Object</key>
                 <dict>

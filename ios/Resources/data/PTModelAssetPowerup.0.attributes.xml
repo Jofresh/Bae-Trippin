@@ -51,7 +51,7 @@
                 <key>Animation Behaviour</key>
                 <dict>
                     <key>selectedStringValue</key>
-                    <string>kOverlayBehaviour</string>
+                    <string>kReplaceBehaviour</string>
                 </dict>
                 <key>Animation Repeat</key>
                 <dict>
@@ -61,7 +61,7 @@
                 <key>Duration</key>
                 <dict>
                     <key>value</key>
-                    <string>20.000000</string>
+                    <string>10.000000</string>
                 </dict>
                 <key>Gameplay properties</key>
                 <dict>
@@ -610,7 +610,7 @@
                 <key>Name</key>
                 <dict>
                     <key>value</key>
-                    <string>iPhone</string>
+                    <string>Flip Phone</string>
                 </dict>
                 <key>Collision Shape</key>
                 <dict>

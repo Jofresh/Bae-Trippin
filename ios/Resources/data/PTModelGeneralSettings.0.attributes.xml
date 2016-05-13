@@ -123,7 +123,7 @@
                     <string>74</string>
                 </dict>
                 <key>lastIdNumber</key>
-                <string>6127</string>
+                <string>6731</string>
                 <key>platformSpecificValues</key>
                 <dict>
                     <key>Apple iOS App Store</key>
@@ -136,6 +136,8 @@
                         <string>ca-app-pub-4355424825814843/6196328612</string>
                         <key>interstitialsOrder</key>
                         <string>kAdMob</string>
+                        <key>leaderboardId</key>
+                        <string>051216</string>
                         <key>bundleID</key>
                         <string>com.thatlevel.baetrippin</string>
                         <key>nameOnDevice</key>

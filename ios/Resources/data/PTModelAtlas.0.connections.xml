@@ -12,11 +12,15 @@
                 <array>
                     <string>5943</string>
                     <string>5910</string>
-                    <string>5807</string>
-                    <string>6060</string>
+                    <string>6725</string>
+                    <string>6719</string>
                     <string>1465</string>
+                    <string>6595</string>
+                    <string>6578</string>
                     <string>4593</string>
                     <string>184</string>
+                    <string>6591</string>
+                    <string>6574</string>
                     <string>4184</string>
                     <string>6014</string>
                     <string>5506</string>
@@ -37,10 +41,8 @@
                 <string>939</string>
                 <key>sprites</key>
                 <array>
-                    <string>5948</string>
                     <string>6032</string>
                     <string>5713</string>
-                    <string>5808</string>
                     <string>5777</string>
                     <string>5758</string>
                     <string>5749</string>
@@ -53,7 +55,7 @@
                 <key>sprites</key>
                 <array>
                     <string>5442</string>
-                    <string>6062</string>
+                    <string>6525</string>
                     <string>5953</string>
                 </array>
             </dict>
@@ -63,7 +65,6 @@
                 <key>sprites</key>
                 <array>
                     <string>5731</string>
-                    <string>5983</string>
                     <string>5452</string>
                     <string>5627</string>
                 </array>
@@ -82,7 +83,7 @@
                 <string>1137</string>
                 <key>sprites</key>
                 <array>
-                    <string>6061</string>
+                    <string>6237</string>
                 </array>
             </dict>
             <dict>
@@ -100,6 +101,7 @@
                 <key>sprites</key>
                 <array>
                     <string>5932</string>
+                    <string>6531</string>
                 </array>
             </dict>
             <dict>
@@ -107,6 +109,8 @@
                 <string>3606</string>
                 <key>sprites</key>
                 <array>
+                    <string>6631</string>
+                    <string>6630</string>
                     <string>6070</string>
                     <string>6089</string>
                 </array>
@@ -151,7 +155,8 @@
                 <string>3748</string>
                 <key>sprites</key>
                 <array>
-                    <string>3747</string>
+                    <string>6274</string>
+                    <string>6632</string>
                 </array>
             </dict>
             <dict>
@@ -160,7 +165,6 @@
                 <key>sprites</key>
                 <array>
                     <string>5690</string>
-                    <string>5809</string>
                 </array>
             </dict>
             <dict>
@@ -168,7 +172,7 @@
                 <string>3759</string>
                 <key>sprites</key>
                 <array>
-                    <string>3758</string>
+                    <string>6512</string>
                 </array>
             </dict>
             <dict>
@@ -192,7 +196,7 @@
                 <string>3820</string>
                 <key>sprites</key>
                 <array>
-                    <string>3819</string>
+                    <string>6629</string>
                 </array>
             </dict>
             <dict>
@@ -207,9 +211,7 @@
                 <key>id</key>
                 <string>4860</string>
                 <key>sprites</key>
-                <array>
-                    <string>5806</string>
-                </array>
+                <array/>
             </dict>
             <dict>
                 <key>id</key>
