@@ -41,26 +41,6 @@
                     <key>shapeType</key>
                     <string>1</string>
                 </dict>
-                <key>Game Over Delay</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Camera Shake</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Camera Flash</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Fall Attribute</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
                 <key>Purchase Method</key>
                 <dict>
                     <key>selectedStringValue</key>
@@ -70,8 +50,6 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Store Identifier</key>
                 <dict>

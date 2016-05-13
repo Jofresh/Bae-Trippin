@@ -354,7 +354,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{80.705,1024.866}</string>
+                    <string>{80.705,1034.866}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -378,11 +378,15 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Locked</key>
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Opacity</key>
                 <dict>
@@ -430,11 +434,20 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Stick To Edge</key>
                 <dict>
                     <key>value</key>
                     <string>1</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Autohide</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>zDepth</key>
                 <string>5</string>

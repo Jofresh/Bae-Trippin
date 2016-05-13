@@ -656,8 +656,6 @@
                     <string>0.900000</string>
                     <key>variableValue</key>
                     <string>0.500000</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Spawn Action</key>
                 <dict>
