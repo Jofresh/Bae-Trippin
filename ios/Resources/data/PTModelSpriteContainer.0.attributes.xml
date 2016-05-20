@@ -540,26 +540,6 @@
                     <key>value</key>
                     <string>sounds on</string>
                 </dict>
-                <key>Brightness</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Contrast</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Hue</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Saturation</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
                 <key>duration</key>
                 <string>0.033333</string>
                 <key>animationSpeed</key>
@@ -589,26 +569,6 @@
                 <dict>
                     <key>value</key>
                     <string>sounds on</string>
-                </dict>
-                <key>Brightness</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Contrast</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Hue</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Saturation</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>duration</key>
                 <string>0.033333</string>
@@ -729,26 +689,6 @@
                 <dict>
                     <key>value</key>
                     <string>share button</string>
-                </dict>
-                <key>Brightness</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Contrast</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Hue</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Saturation</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>duration</key>
                 <string>0.033333</string>
