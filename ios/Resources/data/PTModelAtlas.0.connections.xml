@@ -21,6 +21,10 @@
                     <string>6591</string>
                     <string>6574</string>
                     <string>4184</string>
+                    <string>6837</string>
+                    <string>6831</string>
+                    <string>6825</string>
+                    <string>6814</string>
                     <string>6014</string>
                     <string>5506</string>
                     <string>5485</string>
@@ -40,6 +44,7 @@
                 <string>939</string>
                 <key>sprites</key>
                 <array>
+                    <string>6843</string>
                     <string>6032</string>
                     <string>5713</string>
                     <string>5777</string>

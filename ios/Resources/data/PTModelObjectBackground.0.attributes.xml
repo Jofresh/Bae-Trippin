@@ -19,11 +19,24 @@
                 <dict>
                     <key>value</key>
                     <string>{0.100,664.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.028,1.028}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -35,13 +48,18 @@
                     <key>visible</key>
                     <string>0</string>
                 </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
                 <key>Speed</key>
                 <dict>
                     <key>value</key>
                     <string>0.500000</string>
                 </dict>
                 <key>zDepth</key>
-                <string>-97</string>
+                <string>-98</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -57,11 +75,24 @@
                 <dict>
                     <key>value</key>
                     <string>{155.694,568.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{1.000,1.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -73,13 +104,18 @@
                     <key>visible</key>
                     <string>0</string>
                 </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
                 <key>Speed</key>
                 <dict>
                     <key>value</key>
                     <string>0.000000</string>
                 </dict>
                 <key>zDepth</key>
-                <string>-99</string>
+                <string>-100</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -95,11 +131,24 @@
                 <dict>
                     <key>value</key>
                     <string>{1499.625,328.000}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
+                </dict>
+                <key>Rotation</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
                     <string>{0.500,0.500}</string>
+                    <key>animationsX</key>
+                    <array/>
+                    <key>animationsY</key>
+                    <array/>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -111,13 +160,18 @@
                     <key>visible</key>
                     <string>0</string>
                 </dict>
+                <key>Opacity</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
                 <key>Speed</key>
                 <dict>
                     <key>value</key>
                     <string>0.200000</string>
                 </dict>
                 <key>zDepth</key>
-                <string>-98</string>
+                <string>-99</string>
             </dict>
         </array>
     </dict>
