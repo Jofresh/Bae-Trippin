@@ -20,7 +20,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{325.528,334.829}</string>
+                    <string>{317.777,320.103}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -69,7 +69,7 @@
                 <key>Control Style</key>
                 <dict>
                     <key>selectedStringValue</key>
-                    <string>kControlStyleAbsolute</string>
+                    <string>kControlStyleRelative</string>
                 </dict>
                 <key>Control Type</key>
                 <dict>

@@ -41,6 +41,11 @@
                     <key>shapeType</key>
                     <string>1</string>
                 </dict>
+                <key>Cast Shadow</key>
+                <dict>
+                    <key>value</key>
+                    <string>0</string>
+                </dict>
                 <key>Game Over Delay</key>
                 <dict>
                     <key>animations</key>
