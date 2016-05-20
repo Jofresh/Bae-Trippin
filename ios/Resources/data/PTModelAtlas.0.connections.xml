@@ -23,6 +23,8 @@
                     <string>4184</string>
                     <string>6837</string>
                     <string>6831</string>
+                    <string>6825</string>
+                    <string>6814</string>
                     <string>6014</string>
                     <string>5506</string>
                     <string>5485</string>
@@ -58,6 +60,7 @@
                 <key>sprites</key>
                 <array>
                     <string>5442</string>
+                    <string>6525</string>
                     <string>5953</string>
                 </array>
             </dict>
