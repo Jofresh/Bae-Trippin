@@ -29,12 +29,12 @@
                     <key>points</key>
                     <array>
                         <string>{11.000000,-50.000000}</string>
-                        <string>{60.000000,-50.000000}</string>
-                        <string>{67.000000,-21.000000}</string>
+                        <string>{59.000000,-49.000000}</string>
+                        <string>{58.000000,-20.000000}</string>
                         <string>{57.000000,-4.000000}</string>
                         <string>{33.000000,12.000000}</string>
                         <string>{-15.500000,8.625000}</string>
-                        <string>{-22.000000,-5.750000}</string>
+                        <string>{-17.000000,-6.750000}</string>
                         <string>{-16.000000,-38.500000}</string>
                     </array>
                     <key>oneWayCollisionVector</key>
@@ -52,6 +52,26 @@
                     <key>value</key>
                     <string>1</string>
                 </dict>
+                <key>Game Over Delay</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Camera Shake</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Camera Flash</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Fall Attribute</key>
+                <dict>
+                    <key>animations</key>
+                    <array/>
+                </dict>
                 <key>Purchase Method</key>
                 <dict>
                     <key>selectedStringValue</key>
@@ -61,6 +81,8 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
+                    <key>animations</key>
+                    <array/>
                 </dict>
                 <key>Store Identifier</key>
                 <dict>
