@@ -84,7 +84,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>2</string>
+                <string>1</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -123,7 +123,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.150,0.150}</string>
+                    <string>{1.000,1.000}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -206,7 +206,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.771,0.771}</string>
+                    <string>{1.000,1.000}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -248,7 +248,7 @@
                     <string>kDestroyNo</string>
                 </dict>
                 <key>zDepth</key>
-                <string>1</string>
+                <string>3</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -449,7 +449,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.150,0.150}</string>
+                    <string>{1.000,1.000}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -694,7 +694,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.150,0.150}</string>
+                    <string>{1.000,1.000}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -738,7 +738,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>6</string>
+                <string>5</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -777,7 +777,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.771,0.771}</string>
+                    <string>{1.000,1.000}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -981,7 +981,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>8</string>
+                <string>7</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -1020,7 +1020,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.150,0.150}</string>
+                    <string>{1.000,1.000}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -1064,7 +1064,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>505</string>
+                <string>503</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -1145,7 +1145,7 @@
                     <string>kDestroyNo</string>
                 </dict>
                 <key>zDepth</key>
-                <string>7</string>
+                <string>6</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -1238,7 +1238,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.150,0.150}</string>
+                    <string>{1.000,1.000}</string>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -1303,7 +1303,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.771,0.771}</string>
+                    <string>{1.000,1.000}</string>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -1492,7 +1492,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.150,0.150}</string>
+                    <string>{1.000,1.000}</string>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -1653,7 +1653,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>3</string>
+                <string>2</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -1683,7 +1683,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.150,0.150}</string>
+                    <string>{1.000,1.000}</string>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -1718,72 +1718,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>7</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>5051</string>
-                <key>className</key>
-                <string>PTModelObjectAssetUnit</string>
-                <key>Object Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kPlatformObjectType</string>
-                </dict>
-                <key>Movement Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kMovementLinear</string>
-                </dict>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>Bae Trippin Apartment</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{706.794,672.057}</string>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.771,0.771}</string>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>1</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Asset</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Linear Velocity</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.000,0.000}</string>
-                </dict>
-                <key>Collision Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoCollision</string>
-                </dict>
-                <key>Destroy Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kDestroyNo</string>
-                </dict>
-                <key>zDepth</key>
-                <string>1</string>
+                <string>6</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -1909,7 +1844,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>9</string>
+                <string>8</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -1939,7 +1874,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.150,0.150}</string>
+                    <string>{1.000,1.000}</string>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -1974,7 +1909,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>505</string>
+                <string>503</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -2037,7 +1972,7 @@
                     <string>kDestroyNo</string>
                 </dict>
                 <key>zDepth</key>
-                <string>8</string>
+                <string>7</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -2130,7 +2065,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.150,0.150}</string>
+                    <string>{1.000,1.000}</string>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -2165,72 +2100,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>7</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>5083</string>
-                <key>className</key>
-                <string>PTModelObjectAssetUnit</string>
-                <key>Object Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kBulletObjectType</string>
-                </dict>
-                <key>Movement Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kMovementPhysics</string>
-                </dict>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>8c6875Gdi-01</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{267.083,1165.883}</string>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.070,0.070}</string>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>1</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Asset</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Linear Velocity</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.000,-15.000}</string>
-                </dict>
-                <key>Collision Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoCollision</string>
-                </dict>
-                <key>Destroy Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kDestroyCollision</string>
-                </dict>
-                <key>zDepth</key>
-                <string>6</string>
+                <string>5</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -2260,7 +2130,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.771,0.771}</string>
+                    <string>{1.000,1.000}</string>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -2419,7 +2289,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>9</string>
+                <string>7</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -2449,7 +2319,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.150,0.150}</string>
+                    <string>{1.000,1.000}</string>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -2484,7 +2354,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>505</string>
+                <string>503</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -2547,7 +2417,7 @@
                     <string>kDestroyNo</string>
                 </dict>
                 <key>zDepth</key>
-                <string>8</string>
+                <string>6</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -2640,7 +2510,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.150,0.150}</string>
+                    <string>{1.000,1.000}</string>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -2675,72 +2545,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>7</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>5120</string>
-                <key>className</key>
-                <string>PTModelObjectAssetUnit</string>
-                <key>Object Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kBulletObjectType</string>
-                </dict>
-                <key>Movement Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kMovementPhysics</string>
-                </dict>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>8c6875Gdi-01</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{267.083,1165.883}</string>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.070,0.070}</string>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>1</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Asset</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Linear Velocity</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.000,-15.000}</string>
-                </dict>
-                <key>Collision Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoCollision</string>
-                </dict>
-                <key>Destroy Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kDestroyCollision</string>
-                </dict>
-                <key>zDepth</key>
-                <string>6</string>
+                <string>5</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -2770,7 +2575,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.771,0.771}</string>
+                    <string>{1.000,1.000}</string>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -2929,7 +2734,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>9</string>
+                <string>7</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -2959,7 +2764,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.150,0.150}</string>
+                    <string>{1.000,1.000}</string>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -2994,7 +2799,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>505</string>
+                <string>503</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -3057,7 +2862,7 @@
                     <string>kDestroyNo</string>
                 </dict>
                 <key>zDepth</key>
-                <string>8</string>
+                <string>6</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -3087,7 +2892,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.771,0.771}</string>
+                    <string>{1.000,1.000}</string>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -3120,7 +2925,7 @@
                     <string>kDestroyNo</string>
                 </dict>
                 <key>zDepth</key>
-                <string>2</string>
+                <string>1</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -3213,7 +3018,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.150,0.150}</string>
+                    <string>{1.000,1.000}</string>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -3252,71 +3057,6 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>6291</string>
-                <key>className</key>
-                <string>PTModelObjectAssetUnit</string>
-                <key>Object Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kBulletObjectType</string>
-                </dict>
-                <key>Movement Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kMovementPhysics</string>
-                </dict>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>8c6875Gdi-01</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{267.083,1165.883}</string>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.070,0.070}</string>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>1</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Asset</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Linear Velocity</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.000,-15.000}</string>
-                </dict>
-                <key>Collision Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoCollision</string>
-                </dict>
-                <key>Destroy Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kDestroyCollision</string>
-                </dict>
-                <key>zDepth</key>
-                <string>6</string>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>6293</string>
                 <key>className</key>
                 <string>PTModelObjectAssetUnit</string>
@@ -3343,7 +3083,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.771,0.771}</string>
+                    <string>{1.000,1.000}</string>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -3532,7 +3272,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.150,0.150}</string>
+                    <string>{1.000,1.000}</string>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -3693,7 +3433,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>3</string>
+                <string>2</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -3723,7 +3463,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.150,0.150}</string>
+                    <string>{1.000,1.000}</string>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -3758,137 +3498,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>8</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>6327</string>
-                <key>className</key>
-                <string>PTModelObjectAssetUnit</string>
-                <key>Object Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kBulletObjectType</string>
-                </dict>
-                <key>Movement Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kMovementPhysics</string>
-                </dict>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>8c6875Gdi-01</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{267.083,1165.883}</string>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.070,0.070}</string>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>1</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Asset</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Linear Velocity</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.000,-15.000}</string>
-                </dict>
-                <key>Collision Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoCollision</string>
-                </dict>
-                <key>Destroy Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kDestroyCollision</string>
-                </dict>
-                <key>zDepth</key>
-                <string>7</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>6329</string>
-                <key>className</key>
-                <string>PTModelObjectAssetUnit</string>
-                <key>Object Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kPlatformObjectType</string>
-                </dict>
-                <key>Movement Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kMovementLinear</string>
-                </dict>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>Bae Trippin Apartment</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{706.794,672.057}</string>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.771,0.771}</string>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>1</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Asset</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Linear Velocity</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.000,0.000}</string>
-                </dict>
-                <key>Collision Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoCollision</string>
-                </dict>
-                <key>Destroy Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kDestroyNo</string>
-                </dict>
-                <key>zDepth</key>
-                <string>1</string>
+                <string>5</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -4014,7 +3624,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>10</string>
+                <string>7</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -4044,7 +3654,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.150,0.150}</string>
+                    <string>{1.000,1.000}</string>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -4079,7 +3689,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>505</string>
+                <string>503</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -4142,7 +3752,7 @@
                     <string>kDestroyNo</string>
                 </dict>
                 <key>zDepth</key>
-                <string>9</string>
+                <string>6</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -4235,7 +3845,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.150,0.150}</string>
+                    <string>{1.000,1.000}</string>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -4270,72 +3880,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>7</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>6361</string>
-                <key>className</key>
-                <string>PTModelObjectAssetUnit</string>
-                <key>Object Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kBulletObjectType</string>
-                </dict>
-                <key>Movement Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kMovementPhysics</string>
-                </dict>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>8c6875Gdi-01</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{267.083,1165.883}</string>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.070,0.070}</string>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>1</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Asset</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Linear Velocity</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.000,-15.000}</string>
-                </dict>
-                <key>Collision Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoCollision</string>
-                </dict>
-                <key>Destroy Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kDestroyCollision</string>
-                </dict>
-                <key>zDepth</key>
-                <string>6</string>
+                <string>5</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -4365,7 +3910,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.771,0.771}</string>
+                    <string>{1.000,1.000}</string>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -4524,7 +4069,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>9</string>
+                <string>7</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -4554,7 +4099,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.150,0.150}</string>
+                    <string>{1.000,1.000}</string>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -4589,7 +4134,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>505</string>
+                <string>503</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -4652,7 +4197,7 @@
                     <string>kDestroyNo</string>
                 </dict>
                 <key>zDepth</key>
-                <string>8</string>
+                <string>6</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -4745,7 +4290,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.150,0.150}</string>
+                    <string>{1.000,1.000}</string>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -4780,72 +4325,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>7</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>6395</string>
-                <key>className</key>
-                <string>PTModelObjectAssetUnit</string>
-                <key>Object Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kBulletObjectType</string>
-                </dict>
-                <key>Movement Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kMovementPhysics</string>
-                </dict>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>8c6875Gdi-01</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{267.083,1165.883}</string>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.070,0.070}</string>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>1</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Asset</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Linear Velocity</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.000,-15.000}</string>
-                </dict>
-                <key>Collision Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoCollision</string>
-                </dict>
-                <key>Destroy Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kDestroyCollision</string>
-                </dict>
-                <key>zDepth</key>
-                <string>6</string>
+                <string>5</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -4875,7 +4355,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.771,0.771}</string>
+                    <string>{1.000,1.000}</string>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -5034,7 +4514,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>9</string>
+                <string>7</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -5064,7 +4544,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.150,0.150}</string>
+                    <string>{1.000,1.000}</string>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -5099,7 +4579,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>505</string>
+                <string>503</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -5162,7 +4642,7 @@
                     <string>kDestroyNo</string>
                 </dict>
                 <key>zDepth</key>
-                <string>8</string>
+                <string>6</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -5255,7 +4735,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.150,0.150}</string>
+                    <string>{1.000,1.000}</string>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -5290,72 +4770,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>7</string>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>6429</string>
-                <key>className</key>
-                <string>PTModelObjectAssetUnit</string>
-                <key>Object Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kBulletObjectType</string>
-                </dict>
-                <key>Movement Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kMovementPhysics</string>
-                </dict>
-                <key>Name</key>
-                <dict>
-                    <key>value</key>
-                    <string>8c6875Gdi-01</string>
-                </dict>
-                <key>Position</key>
-                <dict>
-                    <key>value</key>
-                    <string>{267.083,1165.883}</string>
-                </dict>
-                <key>Scale</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.070,0.070}</string>
-                </dict>
-                <key>Hidden</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                    <key>value</key>
-                    <string>1</string>
-                </dict>
-                <key>Locked</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Asset</key>
-                <dict>
-                    <key>visible</key>
-                    <string>0</string>
-                </dict>
-                <key>Linear Velocity</key>
-                <dict>
-                    <key>value</key>
-                    <string>{0.000,-15.000}</string>
-                </dict>
-                <key>Collision Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kNoCollision</string>
-                </dict>
-                <key>Destroy Type</key>
-                <dict>
-                    <key>selectedStringValue</key>
-                    <string>kDestroyCollision</string>
-                </dict>
-                <key>zDepth</key>
-                <string>6</string>
+                <string>5</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -5385,7 +4800,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.771,0.771}</string>
+                    <string>{1.000,1.000}</string>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -5544,7 +4959,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>9</string>
+                <string>7</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -5574,7 +4989,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.150,0.150}</string>
+                    <string>{1.000,1.000}</string>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -5609,7 +5024,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>505</string>
+                <string>503</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -5672,7 +5087,7 @@
                     <string>kDestroyNo</string>
                 </dict>
                 <key>zDepth</key>
-                <string>8</string>
+                <string>6</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -5702,7 +5117,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.771,0.771}</string>
+                    <string>{1.000,1.000}</string>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -5735,7 +5150,7 @@
                     <string>kDestroyNo</string>
                 </dict>
                 <key>zDepth</key>
-                <string>2</string>
+                <string>1</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -5774,7 +5189,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.058,0.058}</string>
+                    <string>{1.000,1.000}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -5816,7 +5231,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>15</string>
+                <string>14</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -5846,7 +5261,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.058,0.058}</string>
+                    <string>{1.000,1.000}</string>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -5879,7 +5294,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>16</string>
+                <string>15</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -5909,7 +5324,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.058,0.058}</string>
+                    <string>{1.000,1.000}</string>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -5942,7 +5357,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>17</string>
+                <string>15</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -5972,7 +5387,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.058,0.058}</string>
+                    <string>{1.000,1.000}</string>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -6005,7 +5420,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>18</string>
+                <string>15</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -6068,7 +5483,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>16</string>
+                <string>14</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -6098,7 +5513,7 @@
                 <key>Scale</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.058,0.058}</string>
+                    <string>{1.000,1.000}</string>
                 </dict>
                 <key>Hidden</key>
                 <dict>
@@ -6131,7 +5546,7 @@
                     <string>kDestroyCollision</string>
                 </dict>
                 <key>zDepth</key>
-                <string>17</string>
+                <string>15</string>
             </dict>
         </array>
     </dict>

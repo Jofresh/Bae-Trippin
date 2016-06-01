@@ -28,10 +28,10 @@
                     </dict>
                     <key>points</key>
                     <array>
-                        <string>{-196.000000,-174.500000}</string>
-                        <string>{196.000000,-174.500000}</string>
-                        <string>{196.000000,174.500000}</string>
-                        <string>{-196.000000,174.500000}</string>
+                        <string>{-39.000000,-35.000000}</string>
+                        <string>{39.000000,-35.000000}</string>
+                        <string>{39.000000,35.000000}</string>
+                        <string>{-39.000000,35.000000}</string>
                     </array>
                     <key>oneWayCollisionVector</key>
                     <string>{0.000000,0.000000}</string>
@@ -219,10 +219,12 @@
                     </dict>
                     <key>points</key>
                     <array>
-                        <string>{-366.000000,-127.500000}</string>
-                        <string>{366.000000,-127.500000}</string>
-                        <string>{366.000000,127.500000}</string>
-                        <string>{-366.000000,127.500000}</string>
+                        <string>{-47.000000,-10.000000}</string>
+                        <string>{-36.000000,-21.500000}</string>
+                        <string>{40.500000,-21.250000}</string>
+                        <string>{49.000000,-9.000000}</string>
+                        <string>{49.000000,13.000000}</string>
+                        <string>{-47.000000,13.000000}</string>
                     </array>
                     <key>oneWayCollisionVector</key>
                     <string>{0.000000,0.000000}</string>
@@ -422,10 +424,10 @@
                     </dict>
                     <key>points</key>
                     <array>
-                        <string>{-275.500000,-640.000000}</string>
-                        <string>{275.500000,-640.000000}</string>
-                        <string>{275.500000,640.000000}</string>
-                        <string>{-275.500000,640.000000}</string>
+                        <string>{-17.000000,-40.000000}</string>
+                        <string>{18.000000,-40.000000}</string>
+                        <string>{17.000000,38.000000}</string>
+                        <string>{-16.000000,38.000000}</string>
                     </array>
                     <key>oneWayCollisionVector</key>
                     <string>{0.000000,0.000000}</string>
@@ -625,10 +627,11 @@
                     </dict>
                     <key>points</key>
                     <array>
-                        <string>{-149.500000,-313.000000}</string>
-                        <string>{149.500000,-313.000000}</string>
-                        <string>{149.500000,313.000000}</string>
-                        <string>{-149.500000,313.000000}</string>
+                        <string>{-59.000000,-52.000000}</string>
+                        <string>{-34.000000,-70.500000}</string>
+                        <string>{42.000000,16.000000}</string>
+                        <string>{23.000000,32.000000}</string>
+                        <string>{4.000000,32.000000}</string>
                     </array>
                     <key>oneWayCollisionVector</key>
                     <string>{0.000000,0.000000}</string>
@@ -654,6 +657,11 @@
                 <dict>
                     <key>selectedStringValue</key>
                     <string>kLoopedAnimation</string>
+                </dict>
+                <key>Show coin reward</key>
+                <dict>
+                    <key>value</key>
+                    <string>0</string>
                 </dict>
                 <key>Reward Points</key>
                 <dict>

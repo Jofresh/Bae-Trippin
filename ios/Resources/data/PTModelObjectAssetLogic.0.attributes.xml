@@ -52,8 +52,6 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Position Modifier</key>
                 <dict>
@@ -111,7 +109,7 @@
                     <string>kReplace</string>
                 </dict>
                 <key>zDepth</key>
-                <string>3</string>
+                <string>2</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -160,8 +158,6 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Position Modifier</key>
                 <dict>
@@ -268,8 +264,6 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Position Modifier</key>
                 <dict>
@@ -376,8 +370,6 @@
                 <dict>
                     <key>visible</key>
                     <string>0</string>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>Position Modifier</key>
                 <dict>
@@ -753,7 +745,7 @@
                     <string>kReplace</string>
                 </dict>
                 <key>zDepth</key>
-                <string>503</string>
+                <string>501</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -859,7 +851,7 @@
                     <string>kReplace</string>
                 </dict>
                 <key>zDepth</key>
-                <string>504</string>
+                <string>502</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -1324,7 +1316,7 @@
                     <string>kReplace</string>
                 </dict>
                 <key>zDepth</key>
-                <string>4</string>
+                <string>3</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -1417,7 +1409,7 @@
                     <string>kReplace</string>
                 </dict>
                 <key>zDepth</key>
-                <string>5</string>
+                <string>4</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -1510,7 +1502,7 @@
                     <string>kReplace</string>
                 </dict>
                 <key>zDepth</key>
-                <string>503</string>
+                <string>501</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -1603,7 +1595,7 @@
                     <string>kReplace</string>
                 </dict>
                 <key>zDepth</key>
-                <string>504</string>
+                <string>502</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -1882,7 +1874,7 @@
                     <string>kReplace</string>
                 </dict>
                 <key>zDepth</key>
-                <string>503</string>
+                <string>501</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -1975,7 +1967,7 @@
                     <string>kReplace</string>
                 </dict>
                 <key>zDepth</key>
-                <string>504</string>
+                <string>502</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -2254,7 +2246,7 @@
                     <string>kReplace</string>
                 </dict>
                 <key>zDepth</key>
-                <string>503</string>
+                <string>501</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -2347,7 +2339,7 @@
                     <string>kReplace</string>
                 </dict>
                 <key>zDepth</key>
-                <string>504</string>
+                <string>502</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -2812,7 +2804,7 @@
                     <string>kReplace</string>
                 </dict>
                 <key>zDepth</key>
-                <string>4</string>
+                <string>3</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -2905,7 +2897,7 @@
                     <string>kReplace</string>
                 </dict>
                 <key>zDepth</key>
-                <string>5</string>
+                <string>4</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -2998,7 +2990,7 @@
                     <string>kReplace</string>
                 </dict>
                 <key>zDepth</key>
-                <string>503</string>
+                <string>501</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -3091,7 +3083,7 @@
                     <string>kReplace</string>
                 </dict>
                 <key>zDepth</key>
-                <string>504</string>
+                <string>502</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -3370,7 +3362,7 @@
                     <string>kReplace</string>
                 </dict>
                 <key>zDepth</key>
-                <string>503</string>
+                <string>501</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -3463,7 +3455,7 @@
                     <string>kReplace</string>
                 </dict>
                 <key>zDepth</key>
-                <string>504</string>
+                <string>502</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -3742,7 +3734,7 @@
                     <string>kReplace</string>
                 </dict>
                 <key>zDepth</key>
-                <string>503</string>
+                <string>501</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -3835,7 +3827,7 @@
                     <string>kReplace</string>
                 </dict>
                 <key>zDepth</key>
-                <string>504</string>
+                <string>502</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -4114,7 +4106,7 @@
                     <string>kReplace</string>
                 </dict>
                 <key>zDepth</key>
-                <string>503</string>
+                <string>501</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -4207,7 +4199,7 @@
                     <string>kReplace</string>
                 </dict>
                 <key>zDepth</key>
-                <string>504</string>
+                <string>502</string>
             </dict>
         </array>
     </dict>

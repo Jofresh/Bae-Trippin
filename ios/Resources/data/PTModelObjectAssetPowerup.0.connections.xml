@@ -70,15 +70,6 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>4622</string>
-                <key>Asset</key>
-                <dict>
-                    <key>value</key>
-                    <string>3514</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>4634</string>
                 <key>Asset</key>
                 <dict>
@@ -129,15 +120,6 @@
                 <dict>
                     <key>value</key>
                     <string>4479</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>5019</string>
-                <key>Asset</key>
-                <dict>
-                    <key>value</key>
-                    <string>3514</string>
                 </dict>
             </dict>
             <dict>
@@ -205,15 +187,6 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>5087</string>
-                <key>Asset</key>
-                <dict>
-                    <key>value</key>
-                    <string>3514</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>5099</string>
                 <key>Asset</key>
                 <dict>
@@ -255,15 +228,6 @@
                 <dict>
                     <key>value</key>
                     <string>4479</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>5124</string>
-                <key>Asset</key>
-                <dict>
-                    <key>value</key>
-                    <string>3514</string>
                 </dict>
             </dict>
             <dict>
@@ -385,15 +349,6 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>6295</string>
-                <key>Asset</key>
-                <dict>
-                    <key>value</key>
-                    <string>3514</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>6307</string>
                 <key>Asset</key>
                 <dict>
@@ -444,15 +399,6 @@
                 <dict>
                     <key>value</key>
                     <string>4479</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>6331</string>
-                <key>Asset</key>
-                <dict>
-                    <key>value</key>
-                    <string>3514</string>
                 </dict>
             </dict>
             <dict>
@@ -511,15 +457,6 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>6365</string>
-                <key>Asset</key>
-                <dict>
-                    <key>value</key>
-                    <string>3514</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>6377</string>
                 <key>Asset</key>
                 <dict>
@@ -574,15 +511,6 @@
             </dict>
             <dict>
                 <key>id</key>
-                <string>6399</string>
-                <key>Asset</key>
-                <dict>
-                    <key>value</key>
-                    <string>3514</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
                 <string>6411</string>
                 <key>Asset</key>
                 <dict>
@@ -633,15 +561,6 @@
                 <dict>
                     <key>value</key>
                     <string>4479</string>
-                </dict>
-            </dict>
-            <dict>
-                <key>id</key>
-                <string>6433</string>
-                <key>Asset</key>
-                <dict>
-                    <key>value</key>
-                    <string>3514</string>
                 </dict>
             </dict>
             <dict>

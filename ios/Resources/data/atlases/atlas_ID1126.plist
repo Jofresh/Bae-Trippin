@@ -5,29 +5,29 @@
     <dict>
         <key>frames</key>
         <dict>
-            <key>PTModelSprite_ID5679</key>
+            <key>PTModelSprite_ID6531</key>
             <dict>
                 <key>frame</key>
-                <string>{{0, 0}, {1044, 1553}}</string>
+                <string>{{0, 0}, {750, 1334}}</string>
                 <key>offset</key>
                 <string>{0, -0}</string>
                 <key>rotated</key>
                 <string>false</string>
                 <key>sourceColorRect</key>
-                <string>{{0, 0}, {1044, 1553}}</string>
+                <string>{{0, 0}, {750, 1334}}</string>
                 <key>sourceSize</key>
-                <string>{1044, 1553}</string>
+                <string>{750, 1334}</string>
             </dict>
-            <key>PTModelSprite_ID5512</key>
+            <key>PTModelSprite_ID6027</key>
             <dict>
                 <key>frame</key>
-                <string>{{1048, 0}, {749, 1055}}</string>
+                <string>{{754, 0}, {750, 1334}}</string>
                 <key>offset</key>
-                <string>{-1, 77}</string>
+                <string>{0, -0}</string>
                 <key>rotated</key>
                 <string>false</string>
                 <key>sourceColorRect</key>
-                <string>{{0, 63}, {749, 1055}}</string>
+                <string>{{0, 0}, {750, 1334}}</string>
                 <key>sourceSize</key>
                 <string>{750, 1334}</string>
             </dict>

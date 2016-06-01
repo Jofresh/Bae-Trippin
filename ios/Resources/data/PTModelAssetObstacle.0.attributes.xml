@@ -62,10 +62,10 @@
                     </dict>
                     <key>points</key>
                     <array>
-                        <string>{-85.000000,-142.000000}</string>
-                        <string>{86.000000,-142.000000}</string>
-                        <string>{86.000000,142.000000}</string>
-                        <string>{-85.000000,142.000000}</string>
+                        <string>{-30.000000,-47.000000}</string>
+                        <string>{33.000000,-47.000000}</string>
+                        <string>{33.000000,48.000000}</string>
+                        <string>{-30.000000,48.000000}</string>
                     </array>
                     <key>oneWayCollisionVector</key>
                     <string>{0.000000,0.000000}</string>
@@ -130,10 +130,10 @@
                     </dict>
                     <key>points</key>
                     <array>
-                        <string>{-581.000000,-675.000000}</string>
-                        <string>{582.000000,-675.000000}</string>
-                        <string>{582.000000,676.000000}</string>
-                        <string>{-581.000000,676.000000}</string>
+                        <string>{-33.000000,-39.000000}</string>
+                        <string>{34.000000,-39.000000}</string>
+                        <string>{34.000000,39.000000}</string>
+                        <string>{-33.000000,39.000000}</string>
                     </array>
                     <key>oneWayCollisionVector</key>
                     <string>{0.000000,0.000000}</string>

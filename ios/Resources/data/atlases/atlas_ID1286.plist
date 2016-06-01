@@ -5,31 +5,18 @@
     <dict>
         <key>frames</key>
         <dict>
-            <key>PTModelSprite_ID5927</key>
+            <key>PTModelSprite_ID6076</key>
             <dict>
                 <key>frame</key>
-                <string>{{0, 0}, {1089, 1867}}</string>
+                <string>{{0, 0}, {2030, 2030}}</string>
                 <key>offset</key>
                 <string>{0, -0}</string>
                 <key>rotated</key>
                 <string>false</string>
                 <key>sourceColorRect</key>
-                <string>{{0, 0}, {1089, 1867}}</string>
+                <string>{{0, 0}, {2030, 2030}}</string>
                 <key>sourceSize</key>
-                <string>{1089, 1867}</string>
-            </dict>
-            <key>PTModelSprite_ID6027</key>
-            <dict>
-                <key>frame</key>
-                <string>{{1093, 0}, {750, 1334}}</string>
-                <key>offset</key>
-                <string>{0, -0}</string>
-                <key>rotated</key>
-                <string>false</string>
-                <key>sourceColorRect</key>
-                <string>{{0, 0}, {750, 1334}}</string>
-                <key>sourceSize</key>
-                <string>{750, 1334}</string>
+                <string>{2030, 2030}</string>
             </dict>
         </dict>
         <key>metadata</key>

@@ -59,7 +59,7 @@
                     <string>0.500000</string>
                 </dict>
                 <key>zDepth</key>
-                <string>-98</string>
+                <string>-97</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -74,7 +74,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{155.694,568.000}</string>
+                    <string>{0.100,568.000}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -115,7 +115,7 @@
                     <string>0.000000</string>
                 </dict>
                 <key>zDepth</key>
-                <string>-100</string>
+                <string>-99</string>
             </dict>
             <dict>
                 <key>id</key>
@@ -130,7 +130,7 @@
                 <key>Position</key>
                 <dict>
                     <key>value</key>
-                    <string>{1499.625,328.000}</string>
+                    <string>{0.100,328.000}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
@@ -171,7 +171,7 @@
                     <string>0.200000</string>
                 </dict>
                 <key>zDepth</key>
-                <string>-99</string>
+                <string>-98</string>
             </dict>
         </array>
     </dict>
