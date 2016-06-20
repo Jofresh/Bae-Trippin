@@ -113,13 +113,6 @@
                 <dict>
                     <key>value</key>
                     <string>0.000000</string>
-                    <key>animations</key>
-                    <array/>
-                </dict>
-                <key>Tiling Offset</key>
-                <dict>
-                    <key>animations</key>
-                    <array/>
                 </dict>
                 <key>zDepth</key>
                 <string>-100</string>

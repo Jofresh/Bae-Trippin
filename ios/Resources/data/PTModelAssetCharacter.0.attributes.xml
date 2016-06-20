@@ -91,6 +91,13 @@
                     <key>value</key>
                     <string></string>
                 </dict>
+                <key>Web Link</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string></string>
+                </dict>
                 <key>Ad Network</key>
                 <dict>
                     <key>selectedStringValue</key>

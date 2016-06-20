@@ -40,7 +40,7 @@
                     <key>visible</key>
                     <string>0</string>
                     <key>value</key>
-                    <string>1461926957</string>
+                    <string>1465839427</string>
                 </dict>
                 <key>Game Preset</key>
                 <dict>
@@ -123,7 +123,7 @@
                     <string>74</string>
                 </dict>
                 <key>lastIdNumber</key>
-                <string>7445</string>
+                <string>7487</string>
                 <key>platformSpecificValues</key>
                 <dict>
                     <key>Apple iOS App Store</key>
@@ -163,8 +163,20 @@
                     </dict>
                     <key>Google Play Store</key>
                     <dict>
+                        <key>leaderboardId</key>
+                        <string>051216</string>
+                        <key>licenseKey</key>
+                        <string>MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAoMIeCiPy1e8U5EwG05zuePEH3zPTNAP7CfPaRDJMofumVwkVqMKWzhFQ3P6xKWwVFo426j4GPICIIQ2ucm3GeFOHsi4MtYziyER7DiDh9MI/pTQN6PqtST9lKk3YRUmYEiowRYDd8FPmxhvgOp8GKZ/IB/1TSf/RPWUBE/avyzasUd611tCBLc+6EpO+BOc9bqjwfpzGslniW2yVZ9D2fd13KBwrABczkJLhjrp21bGwH3iv/RGqxyKZNvyY9tdNuFq8c71zYoDI2vFQbatBeq7zVvR7htntX6IvQly7SkupNh3hvIDEVgoK8mqAzEvovLFbo/Tza2/rqLUqYDqVTwIDAQAB</string>
+                        <key>googlePlayId</key>
+                        <string>934060489696</string>
+                        <key>versionCode</key>
+                        <string>1</string>
+                        <key>bundleID</key>
+                        <string>com.thatlevel.baetrippin</string>
                         <key>nameOnDevice</key>
-                        <string>Untitled</string>
+                        <string>Bae Trippin</string>
+                        <key>shareMessageTemplate</key>
+                        <string>Bae Trippin Again! My Score: [[SCORE]]</string>
                         <key>reviewLink</key>
                         <string></string>
                     </dict>
@@ -210,7 +222,7 @@
                 <key>objectFrameRect</key>
                 <string>{{0.0000,0.0000},{1.0000,1.0000}}</string>
                 <key>_ibVersion</key>
-                <string>2.0.1</string>
+                <string>2.1.1</string>
                 <key>t</key>
                 <string>0</string>
                 <key>orientation</key>

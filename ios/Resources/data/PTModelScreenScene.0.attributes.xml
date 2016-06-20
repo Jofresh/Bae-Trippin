@@ -37,7 +37,7 @@
                 <key>Gravity</key>
                 <dict>
                     <key>value</key>
-                    <string>{0.000,-200.000}</string>
+                    <string>{0.000,-100.000}</string>
                     <key>animationsX</key>
                     <array/>
                     <key>animationsY</key>
